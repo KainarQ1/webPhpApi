@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"kai"},
+{"type":"table","name":"users","database":"kai","data":
+[
+{"id":"1","email":"kainar_gani@mail.ru","password":"f10e2821bbbea527ea02200352313bc059445190","full_name":"Kainar Gani"},
+{"id":"3","email":"qwe","password":"056eafe7cf52220de2df36845b8ed170c67e23e3","full_name":"qwe"},
+{"id":"4","email":"kainar99@mail.ru","password":"3da60992c670a802d394caf3a6d337e3161f9ab4","full_name":"Kainar Gani"},
+{"id":"5","email":"asd","password":"f10e2821bbbea527ea02200352313bc059445190","full_name":"asd"},
+{"id":"6","email":"","password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","full_name":""},
+{"id":"7","email":"a","password":"86f7e437faa5a7fce15d1ddcb9eaeaea377667b8","full_name":"a"},
+{"id":"8","email":"f","password":"4a0a19218e082a343a1b17e5333409af9d98f0f5","full_name":"f"},
+{"id":"9","email":"d","password":"3c363836cf4e16666669a25da280a1865c2d2874","full_name":"d"}
+]
+}
+]
