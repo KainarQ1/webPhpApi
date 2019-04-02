@@ -29,5 +29,4 @@
 		header("Location:index.php");
 	}
 
- ?>//rowcount method
- //fetch method
+ ?>
